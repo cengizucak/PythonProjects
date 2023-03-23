@@ -1,0 +1,25 @@
+Html nedir?
+
+Html bir web sayfasini olusturmak icin kullanilan standart bir metin isaretleme
+dilidir. Acilimi ise ’Hyper Text Markup Language’ olarak bilinir. Html browserlerin
+okuyup anlamlandirdigi bir dildir. Html web sayfalarinin iskeletini olustururken,
+CSS göruntusunu, JS ise hareketlerini olusturur. Yani bir insan gibi dusunursek..
+
+HTLM locators konusu nedir?
+
+Locators’a konumlandirici diyoruz. Nedir ve ne ise yara bu?
+
+Locators Selenium Ide’ye hangi web tabanli objeler uzerinde calismasi gerektigini söyleyen komuttur.
+
+
+Seleniumda Aksiyonlar nelerdir
+
+Html elemanlarina verilen komutlar olarak adlandirabiliyormusuz..
+Ne yapiyor bunlar?
+click             :  tiklama icin
+refresh           :  sayfayi yenilemek icin
+maximize_window   :  Web sayfasini tam ekran yapar. Son derste cok yaptik
+get               : url’ye erismemizi saglar
+find_element      : elementlerin yolunu bulmak icin kullanilir
+send_keys         :  Metin kutusuna yazi yazmak icin kullanilir.
+
